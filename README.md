@@ -57,3 +57,6 @@ public class OrderTest {
 
 
 # Class Diagram
+
+![Blank diagram (7)](https://github.com/Reirinn/Solid-Principles-2/assets/142465054/4c69c043-74a8-4b30-b803-e2b96d2778d4)
+
